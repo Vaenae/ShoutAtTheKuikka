@@ -1,0 +1,1 @@
+Open with Godot, run and enable the microphone and then make some noise.

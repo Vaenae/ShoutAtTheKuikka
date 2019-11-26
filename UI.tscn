@@ -1,0 +1,24 @@
+[gd_scene format=2]
+
+[node name="UI" type="CanvasLayer"]
+
+[node name="ScoreLabel" type="Label" parent="."]
+margin_left = 61.4502
+margin_top = 75.6896
+margin_right = 165.45
+margin_bottom = 98.6896
+custom_colors/font_color = Color( 0.941176, 0.0431373, 0.0431373, 1 )
+
+[node name="MainLabel" type="Label" parent="."]
+margin_left = 291.537
+margin_top = 249.112
+margin_right = 805.537
+margin_bottom = 339.112
+size_flags_horizontal = 2
+size_flags_vertical = 2
+custom_colors/font_color = Color( 0.941176, 0.0431373, 0.0431373, 1 )
+text = "hththt"
+align = 1
+valign = 1
+autowrap = true
+uppercase = true
